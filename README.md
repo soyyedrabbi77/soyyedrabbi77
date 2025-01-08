@@ -62,6 +62,16 @@
 
 ###
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/soyyed-mohammad-rabbi-529b57261/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
 <h4 align="left">Email: rabbinyc300@gmail.com<br>What's up: +8801318796706</h4>
 
 ###
@@ -79,7 +89,6 @@
 ###
 
 <h3 align="left">🌐 Live Demo: [ https://chill-gaming-port1-ph.netlify.app/ ]</h3>
-<h3 align="left">🌐 Live Demo: [ https://car-rental-hub-a11.netlify.app/ ]</h3>
 
 ###
 

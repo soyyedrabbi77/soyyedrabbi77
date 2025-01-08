@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm a passionate Full-Stack Developer who loves building modern, responsive, and scalable web applications.<br>I specialize in React.js, Node.js, and Next.js, and I’m always exploring new tools and technologies to improve my skills.</p>
+<h4 align="left">I'm a passionate Full-Stack Developer who loves building modern, responsive, and scalable web applications.<br>I specialize in React.js, Node.js, and Next.js, and I’m always exploring new tools and technologies to improve my skills.</h4>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h5 align="left">🌱 Exploring Next.js and TypeScript<br>🔭 Working on a Tourism Website project</h5>
+<h4 align="left">🌱 Exploring Next.js and TypeScript<br>🔭 Working on a Tourism Website project</h4>
 
 ###
 

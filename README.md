@@ -62,8 +62,6 @@
 
 ###
 
-<br clear="both">
-
 <h4 align="left">Email: rabbinyc300@gmail.com<br>What's up: +8801318796706</h4>
 
 ###

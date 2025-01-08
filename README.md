@@ -15,6 +15,7 @@
 <h3 align="left">🧑‍💻 About Me</h3>
 
 ###
+
 <p align="left">I'm a passionate Full-Stack Developer who loves building modern, responsive, and scalable web applications.<br>I specialize in React.js, Node.js, and Next.js, and I’m always exploring new tools and technologies to improve my skills.</p>
 
 ###
@@ -60,6 +61,8 @@
 <h3 align="left">🔗 Connect with Me</h3>
 
 ###
+
+<br clear="both">
 
 <h4 align="left">Email: rabbinyc300@gmail.com<br>What's up: +8801318796706</h4>
 

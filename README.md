@@ -20,15 +20,31 @@
 
 ###
 
-<h4 align="left">Frontend Development : <br><br>1. Languages :<br>HTML5: Structuring web content.<br>CSS3: Styling and layout.<br>JavaScript (ES6+): Core programming language for interactivity.<br>TypeScript: Typed superset of JavaScript for scalable applications.<br><br>2. Frameworks and Libraries :<br>React.js: Component-based UI library.<br>Next.js: React framework for server-side rendering (SSR) and static site generation (SSG).<br>jQuery: Simplified DOM manipulation (legacy projects).<br><br>3. Styling and Design :<br>CSS Frameworks:<br>Tailwind CSS: Utility-first framework for rapid UI development.<br>Bootstrap: Responsive design framework.<br><br>SCSS/SASS: Advanced features for modular CSS.<br>LESS: CSS preprocessor for variables and mixins.<br><br>Design Tools:<br>Figma: Collaborative design tool.<br>Adobe XD: UI/UX design and prototyping.<br><br>4. Frontend Tools<br>Build Tools:<br>Webpack: Module bundler.<br>Vite: Lightning-fast development server.<br><br>Code Quality:<br>ESLint: JavaScript linting.<br>Prettier: Code formatting.<br><br>Version Control:<br>Git: Source control management.<br>GitHub: Repository hosting platforms.<br><br>State Management:<br>Redux/Redux Toolkit: Centralized state management.<br>Context API: Built-in state management for React.<br>5. Performance Optimization<br>Lazy Loading: Load components/images as needed.<br>Code Splitting: Split large bundles for faster loads (e.g., React.lazy, import()).<br>CDN Usage: Deliver assets faster globally.<br><br>Image Optimization:<br>Next.js Image component for automatic optimization.<br>Tools like Cloudinary or Imgix.<br>Caching:<br>Service Workers for offline support.<br>Browser caching via HTTP headers.<br><br>Minification:<br>Compress CSS, JS, and HTML using tools like Terser and UglifyJS.<br>Runtime Performance:<br>Lighthouse audits to optimize runtime performance.<br>Avoid unnecessary re-renders with React.memo, useMemo, and useCallback.</h4>
+<h3 align="left">Frontend Development :</h3>
 
 ###
 
-<h4 align="left">Backend Development :<br><br>1. Backend Development Languages :<br>Node.js<br><br>2. Frameworks and Libraries<br>Node.js Frameworks:<br>Express.js<br><br>Database Design:<br>MongoDB<br><br>4. Backend Tools<br>API Development Tools:<br>RESTful APIs<br><br>Authentication:<br>JSON Web Token (JWT)<br>OAuth</h4>
+<h4 align="left">1. Languages :<br>HTML5: Structuring web content.<br>CSS3: Styling and layout.<br>JavaScript (ES6+): Core programming language for interactivity.<br>TypeScript: Typed superset of JavaScript for scalable applications.<br><br>2. Frameworks and Libraries :<br>React.js: Component-based UI library.<br>Next.js: React framework for server-side rendering (SSR) and static site generation (SSG).<br>jQuery: Simplified DOM manipulation (legacy projects).<br><br>3. Styling and Design :<br>CSS Frameworks:<br>Tailwind CSS: Utility-first framework for rapid UI development.<br>Bootstrap: Responsive design framework.<br><br>SCSS/SASS: Advanced features for modular CSS.<br>LESS: CSS preprocessor for variables and mixins.<br><br>Design Tools:<br>Figma: Collaborative design tool.<br>Adobe XD: UI/UX design and prototyping.<br><br>4. Frontend Tools<br>Build Tools:<br>Webpack: Module bundler.<br>Vite: Lightning-fast development server.<br><br>Code Quality:<br>ESLint: JavaScript linting.<br>Prettier: Code formatting.<br><br>Version Control:<br>Git: Source control management.<br>GitHub: Repository hosting platforms.<br><br>State Management:<br>Redux/Redux Toolkit: Centralized state management.<br>Context API: Built-in state management for React.<br>5. Performance Optimization<br>Lazy Loading: Load components/images as needed.<br>Code Splitting: Split large bundles for faster loads (e.g., React.lazy, import()).<br>CDN Usage: Deliver assets faster globally.<br><br>Image Optimization:<br>Next.js Image component for automatic optimization.<br>Tools like Cloudinary or Imgix.<br>Caching:<br>Service Workers for offline support.<br>Browser caching via HTTP headers.<br><br>Minification:<br>Compress CSS, JS, and HTML using tools like Terser and UglifyJS.<br>Runtime Performance:<br>Lighthouse audits to optimize runtime performance.<br>Avoid unnecessary re-renders with React.memo, useMemo, and useCallback.</h4>
 
 ###
 
-<h4 align="left">Additional Tools and Technologies : <br><br>1. Version Control Tools :<br>Version control systems ensure efficient collaboration and track changes in codebases.<br>Git: Distributed version control system.<br>GitHub: Code hosting and collaboration platform.<br>GitLab: CI/CD integration and DevOps-friendly platform.<br>Bitbucket: Collaboration and integration with Jira.<br><br>2. Project Management Tools :<br>Effective tools for planning, tracking, and executing projects:<br>Jira: Agile project management and tracking.<br>Trello: Kanban-style project management tool.<br>Asana: Task and workflow management.<br>ClickUp: Comprehensive productivity platform.<br>Slack: Team communication and collaboration.<br><br>3. Deployment and Hosting Platforms<br>Seamless deployment and hosting services :<br><br>Netlify<br>Vercel<br><br>CI/CD Deployment:<br>GitHub Actions<br><br>GitLab CI/CD<br>Docker Containers:<br><br>Managed Hosting:<br>Heroku<br><br>Database Hosting Services:<br>Firebase<br>MongoDB Atlas</h4>
+<h3 align="left">Backend Development :</h3>
+
+###
+
+<h4 align="left">1. Backend Development Languages :<br>Node.js<br><br>2. Frameworks and Libraries<br>Node.js Frameworks:<br>Express.js<br><br>Database Design:<br>MongoDB<br><br>4. Backend Tools<br>API Development Tools:<br>RESTful APIs<br><br>Authentication:<br>JSON Web Token (JWT)<br>OAuth</h4>
+
+###
+
+<h3 align="left">Additional Tools and Technologies :</h3>
+
+###
+
+<h4 align="left">1. Version Control Tools :<br>Version control systems ensure efficient collaboration and track changes in codebases.<br>Git: Distributed version control system.<br>GitHub: Code hosting and collaboration platform.<br>GitLab: CI/CD integration and DevOps-friendly platform.<br>Bitbucket: Collaboration and integration with Jira.<br><br>2. Project Management Tools :<br>Effective tools for planning, tracking, and executing projects:<br>Jira: Agile project management and tracking.<br>Trello: Kanban-style project management tool.<br>Asana: Task and workflow management.<br>ClickUp: Comprehensive productivity platform.<br>Slack: Team communication and collaboration.<br><br>3. Deployment and Hosting Platforms<br>Seamless deployment and hosting services :<br><br>Netlify<br>Vercel<br><br>CI/CD Deployment:<br>GitHub Actions<br><br>GitLab CI/CD<br>Docker Containers:<br><br>Managed Hosting:<br>Heroku<br><br>Database Hosting Services:<br>Firebase<br>MongoDB Atlas</h4>
+
+###
+
+<h3 align="left">Social Link :</h3>
 
 ###
 
@@ -37,6 +53,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<h3 align="left">Skills :</h3>
 
 ###
 

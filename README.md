@@ -58,7 +58,7 @@
 
 ###
 
-<h3 align="left">🔗 Connect with Me</h3>
+<h3 align="left">🔗 Connect with Me:</h3>
 
 ###
 
